@@ -124,8 +124,9 @@ FileHeader            //在文件头部添加文件说明
 	"font_face": "Monaco",
 	"font_options":
 	[
+		"directwrite"
 	],
-	"font_size": 14,
+	"font_size": 12,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
